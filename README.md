@@ -30,9 +30,10 @@ cargo install spl-token-cli
 
 ### Steps
 
-1. Run mint-token.sh
-2. Run token-multisig-mint-revoke.ts to generate a encoded transaction.
-3. Run the serialized transaction through the multisig.
+1. Have a file called keypair.json in the directory with 0.1 SOL.
+2. Run mint-token.sh
+3. Run token-multisig-mint-revoke.ts to generate a encoded transaction.
+4. Run the serialized transaction through the multisig.
 
 The resultant token is as seen here:
 
