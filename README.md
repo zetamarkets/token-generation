@@ -2,6 +2,12 @@
 
 ### Install dependencies
 
+### Node.js
+
+```sh
+npm install
+```
+
 ### Rust
 
 ```sh
